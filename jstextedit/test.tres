@@ -1,0 +1,13 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://cymvljcraumsu"]
+
+[ext_resource type="Shader" uid="uid://cuhqr0k876grl" path="res://test.gdshader" id="1_umafu"]
+
+[resource]
+shader = ExtResource("1_umafu")
+shader_parameter/color_a = Color(0.215716, 0.791069, 0.79728, 1)
+shader_parameter/color_b = Color(1, 0.262745, 1, 1)
+shader_parameter/colors_affect_alpha = true
+shader_parameter/flash_amount = 1.0
+shader_parameter/flash_speed = 1.0
+shader_parameter/transparency = 0.3
+shader_parameter/intensity = 1.0
