@@ -1,3 +1,7 @@
+----------
+Fairly Easy to edit - All runs on one script
+
+
 License: CC BY
 This license enables reusers to distribute, 
 remix, adapt, and build upon the material in any medium or format, 
